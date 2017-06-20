@@ -1,1 +1,23 @@
 /* Holiii otra vez */
+*{
+	font-family: 'Merriweather Sans', sans-serif;
+}
+
+.img1-portada {
+	background-image: url(../img/1.png);
+}
+
+#menu {
+	margin: 20px;
+}
+
+#portada {
+	padding-top: 150px;
+}
+
+.container-fluid {
+    padding-right: 100px;
+    padding-left: 100px;
+    margin-right: auto;
+    margin-left: auto;
+}
